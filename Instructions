@@ -14,5 +14,5 @@ Then Type: pip install -r requirements.txt
 
 Make Sure ALL Lib are Satisfied or some will not import
 
-Then type: python Ip.py 
+Then type: python Ozark.py 
     
