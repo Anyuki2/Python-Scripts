@@ -21,13 +21,13 @@ $$ |  $$ | $$  _/  $$  __$$ |$$ |      $$  _$$<
     '''
 menu ='''
     {1}--Ip lookup
-    {2}--Dns Lookup
-    {3}--Reverse DNS lookup
-    {4}--Port Scan
-    {5}--Reverse IP Lookup
+    {2}--
+    {3}--
+    {4}--
+    {5}--
     {6}--
     {7}--
-    {8}--INSTALL & UPDATE
+    {8}--
     {99}-Exit
 
     WARNING! THIS TOOL IS MEANT FOR LINUX DEVICES, SOME FEATURES MIGHT NOT WORK AS INTENDED 
