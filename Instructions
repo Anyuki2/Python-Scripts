@@ -1,0 +1,18 @@
+First you will need python installed or Will not Work (ofc)      
+
+Download The zip file of the code       
+
+Once Dowloaded unzip the file 
+
+Open up cmd 
+
+Find the location of the file
+
+In Command Prompt Type: cd (file name)                Example(cd c:\Users\system32\Desktop\Python-Scripts-Main
+
+Then Type: pip install -r requirements.txt
+
+Make Sure ALL Lib are Satisfied or some will not import
+
+Then type: python Ip.py 
+    
