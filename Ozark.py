@@ -41,7 +41,7 @@ print (menu)
 
 def quit():
     con = input('Exit? [Y/n] >')
-    if con[0].upper() == 'N':
+    if con[0].upper() == 'Y':
         exit()
     else:
         os.system('cls' if os.name == 'nt' else 'clear')
